@@ -11,11 +11,12 @@ Initially, I faced some challenges in scraping the data due to the website's sec
 During the data cleaning process, I removed unwanted characters, converted data types, and added the year to the date column to ensure clarity and consistency.
 
 ## Tools Used: 
-1.Python: The primary programming language used for data scraping, cleaning, and analysis.
-2.Requests: A Python library for making HTTP requests to the AccuWeather website.
-3.BeautifulSoup: A Python library for parsing HTML and XML documents.
-4.Pandas: A powerful data manipulation and analysis library in Python.
-5.Matplotlib and Seaborn: Python data visualization libraries used for creating the various charts and plots.
+## 1.Python: The primary programming language used for data scraping, cleaning, and analysis.
+## 2.Requests: A Python library for making HTTP requests to the AccuWeather website.
+## 3.BeautifulSoup: A Python library for parsing HTML and XML documents.
+## 4.Pandas: A powerful data manipulation and analysis library in Python.
+## 5.Matplotlib and Seaborn: Python data visualization libraries used for creating the various charts and plots.
+## 6.Jupyter Notebook
 
 
 ## Code Implementation 
